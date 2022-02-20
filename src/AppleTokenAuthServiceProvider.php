@@ -1,8 +1,8 @@
 <?php
 
-namespace AnimusCoop\AppleTokenAuth;
+namespace FaganChalabizada\AppleTokenAuth;
 
-use AnimusCoop\AppleTokenAuth\Classes\AppleAuth;
+use FaganChalabizada\AppleTokenAuth\Classes\AppleAuth;
 use Illuminate\Support\ServiceProvider;
 
 class AppleTokenAuthServiceProvider extends ServiceProvider
