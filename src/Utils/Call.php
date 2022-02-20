@@ -1,6 +1,6 @@
 <?php
 
-namespace AnimusCoop\AppleTokenAuth\Utils;
+namespace FaganChalabizada\AppleTokenAuth\Utils;
 
 class Call {
 
