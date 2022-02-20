@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AnimusCoop\\AppleTokenAuth\\": "src/"
+      "FaganChalabizada\\AppleTokenAuth\\": "src/"
     }
   },
   "scripts": {
@@ -39,7 +39,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "AnimusCoop\\AppleTokenAuth\\AppleTokenAuthServiceProvider"
+        "FaganChalabizada\\AppleTokenAuth\\AppleTokenAuthServiceProvider"
       ]
     }
   }
